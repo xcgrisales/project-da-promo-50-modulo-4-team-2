@@ -12,11 +12,9 @@ Este proyecto tiene como objetivo analizar un conjunto de datos sobre destinos t
 2. **Análisis exploratorio (EDA)**
    - Revisión inicial de la estructura del dataset.
    - Identificación de valores nulos, formatos incorrectos o datos duplicados.
-   - Cálculo de estadísticas básicas por categoría (presupuesto, temperatura, experiencias).
 
 3. **Limpieza de datos**
    - Conversión de valores decimales con punto a coma para compatibilidad con Power BI.
-   - Renombrado de columnas para mayor claridad (ej.: `avg_temp` → `Temperatura Promedio`).
    - Normalización de texto en columnas como `region` (reemplazo de guiones bajos, mayúsculas iniciales).
 
 4. **Definición de objetivos**
