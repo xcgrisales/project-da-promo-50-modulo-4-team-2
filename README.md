@@ -78,9 +78,9 @@ A través de la limpieza, el análisis exploratorio y la visualización interact
 Este proyecto fue desarrollado de forma colaborativa por cuatro integrantes, trabajando de forma remota y coordinada.
 
 - **Carolina Perona**
+- **Lidia Barcia**
 - **Marina Soler** 
 - **Ximena Castaño**
-- **Lidia Barcia**
 
 ---
 
