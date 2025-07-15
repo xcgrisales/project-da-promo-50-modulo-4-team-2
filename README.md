@@ -1,8 +1,20 @@
 # ✈️ Proyecto de análisis de destinos de viaje
 
+## 🌍 Descripción del Proyecto
+
 Este proyecto tiene como objetivo analizar un conjunto de datos sobre destinos turísticos, considerando factores como el presupuesto promedio, la temperatura y distintas experiencias temáticas (cultura, aventura, bienestar, etc.). A través de la limpieza, análisis exploratorio y visualización, buscamos identificar patrones que ayuden a comparar destinos y facilitar la toma de decisiones para futuros viajeros o planificadores turísticos.
 
+> **Lema del proyecto:** *Viaja con datos, no con dudas.*
+
 ---
+
+## 📁 Estructura del Repositorio
+
+- `viajes.csv`: dataset original con más de 500 destinos turísticos.
+- `monthly_temp.csv`: temperaturas mensuales transformadas para visualización.
+- `travel_info.csv`: datos procesados y enriquecidos para Power BI.
+- `proyecto-modulo-4-equipo-2.ipynb`: análisis exploratorio y limpieza en Python.
+- `README.md`: documentación del proyecto.
 
 ## 📁 Estructura del proyecto
 
@@ -22,12 +34,10 @@ Este proyecto tiene como objetivo analizar un conjunto de datos sobre destinos t
    - Ayudarte a decidir el destino ideal de tu viaje
    - Crear dashboards claros, útiles y visuales
 
-5. **Visualizaciones**
+5. **Visualizaciones en Power BI**
    - Radar charts para comparar el perfil temático de cada país.
    - Gráficos de barras y líneas para analizar presupuesto y temperatura.
    - Segmentadores por país, región o tipo de experiencia.
-
-6. **Dashboards**
    - Se construyen dashboards en Power BI con visualizaciones interactivas.
    - Permite comparar destinos según diferentes criterios definidos por el usuario.
 
