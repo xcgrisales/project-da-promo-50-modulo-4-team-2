@@ -77,10 +77,10 @@ A través de la limpieza, el análisis exploratorio y la visualización interact
 
 Este proyecto fue desarrollado de forma colaborativa por cuatro integrantes, trabajando de forma remota y coordinada.
 
-- **Carolina Perona** – Limpieza de datos y análisis en Python  
-- **Marina Soler** – Visualizaciones y storytelling  
-- **Ximena Castaño** – Desarrollo de dashboards en Power BI  
-- **Lidia Barcia** – Diseño visual, interactividad y presentación final 
+- **Carolina Perona**
+- **Marina Soler** 
+- **Ximena Castaño**
+- **Lidia Barcia**
 
 ---
 
